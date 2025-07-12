@@ -1,9 +1,7 @@
 ## 👋 Hey there, I'm Sushant Nautiyal
  
 🧠 Software Engineer • 🛠️ Tech Lead • 🕉️ Spiritual Explorer
- 
-I'm a remote tech lead based in Dehradun, India 🇮🇳, blending cutting-edge AI systems with timeless Vedic wisdom. From architecting smart alert systems to exploring consciousness through Jnana Yoga, I like to stay hands-on, curious, and quietly intense about everything I do.
- 
+  
 ### 👨‍💻 What I do:
 - Lead AI & IoT projects (currently working with 3D TRASAR™ CIP tech)
 - Explore real-time systems, clean code, and intelligent data flows
@@ -15,7 +13,7 @@ I'm a remote tech lead based in Dehradun, India 🇮🇳, blending cutting-edge 
 - Reading Bhamati, Ramana Maharshi, and Advaita texts under the Himalayas 📖
  
 ### ✨ Mantra I live by:
-> "Code like a craftsman, think like a Rishi." https://www.instagram.com/sush.clicks/
+> "Code like a craftsman, think like a Rishi."
 --- 
 🔗 Let's connect and build something meaningful — in tech, in truth, or both.
 
